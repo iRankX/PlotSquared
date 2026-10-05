@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/IntellectualSites/Assets/main/plugins/PlotSquared/PlotSquared.svg" width="250">
 </p>
 
----
+---.
 
 PlotSquared is a land and world management plugin for Minecraft.
 It includes several highly configurable world generators.
